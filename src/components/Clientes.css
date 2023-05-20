@@ -1,0 +1,9 @@
+.contenedorCarta{
+    background-color: pink;
+}
+
+.tituloClientes{
+    display: block;
+    width: auto;
+    max-width: 100%;
+}
